@@ -1,0 +1,7 @@
+    This code is used to identify and classify of the inertinite macerals in coal.The method is based on  frequency and spatial texture analysis.
+    There are many code files in the folder. Among them, main.m is the main program, and other codes are its subroutines.We mainly run the program.
+    The code consists of four parts: 
+    I. Typical image of oxyfusinite; 
+    II. Wavelet coefficients and wavelet main coefficients;
+    III. Multifractal spectrum via our developed DMFS; 
+    Note:The image data is generated through 8 sets of CT images, summed up to 480single 2D images totally. So this is so big training data library, it is inconvenient to upload to Github. If your would like to using our data to train, please concat me with lmdyne@163.com.
